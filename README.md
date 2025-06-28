@@ -63,4 +63,4 @@ pip install pandas matplotlib seaborn scikit-learn
 
 ## 🧠 Author
 
-- [Yunus Emre Arslan](https://github.com/YunusEmreArslan)
+- [Yunus Emre Arslan](https://github.com/yunusarslans))
